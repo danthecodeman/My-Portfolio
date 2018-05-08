@@ -1,0 +1,111 @@
+.nav-pills{
+  font-size: 1.5em;
+  background-color: black;
+  margin-bottom: 10%;
+}
+
+#linkedinIcon {
+  color: rgb(0, 123, 181);
+}
+
+#githubIcon {
+  color: #6e5494;
+}
+
+#instagramIcon {
+  display: inline-block;
+  border-radius: 40px;
+  color: #fff;
+  vertical-align: middle;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+}
+
+.block {
+  background-color: black;
+  opacity: .8;
+  padding: 10px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+body {
+  background-color: white;
+  font-family: Ultra;
+  color: white;
+}
+
+h1 {
+  padding: 0;
+  padding-top: 0%;
+  margin-top: 0px;
+  font-size: 3.0em;
+}
+
+h2 {
+  color:white;
+}
+
+.btn-default {
+  background-color: black;
+  color: #337ab7;
+  font-size: 1.5em;
+  border-radius: 10px;
+}
+
+.pageOne {
+  background:url("http://www.intrawallpaper.com/static/images/HD-Wallpapers-646.jpg");
+  background-size: cover;
+  height: 800px;
+} 
+
+.pageTwo {
+  background:url("http://hdlatestwallpaper.com/?edmc=10964");
+  background-size: cover;
+  height: 800px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+p {
+  font-size: 2.0em;
+}
+
+.paddingTop {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.footer {
+font-size: 15px;
+background-color: black;
+}
+
+.me {
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+.paddingBTN {
+  width: 200px;
+  margin-bottom: 25px;
+}
+
+.pageThree {
+  background:url("https://lh3.ggpht.com/3a238o7PEti7PNB12QqvqVhJQ62kZJiSjcpA0F7AFL8LpSodTGt7ZANgGcLLh05Ipg=h900");
+  background-size: cover;
+  padding-top: 5%;
+  padding-bottom: 15%;
+}
+
+.pageFour {
+  background:url("https://i0.wp.com/www.wallpapersbyte.com/wp-content/uploads/2015/06/Nature-Night-Sky-Stars-Blurred-Light-Show-Mountains-WallpapersByte-com-1366x768.jpg");
+  background-size: cover;
+  padding-top: 8%;;
+}
