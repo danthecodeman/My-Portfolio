@@ -32,10 +32,22 @@
   border-radius: 10px;
 }
 
-body {
-  background-color: white;
+.box{
+  margin-left: auto;
+  margin-right: auto;
+  border: white solid;
+  border-width:thick;
+  border-radius:10px;
+  width: 50%;
+  background-color: black;
+  opacity: .9;
+  padding: 30px;
+}
+
+body,html {
+  background-color: black;
   font-family: Ultra;
-  color: white;
+  overflow-x:hidden
 }
 
 h1 {
@@ -43,10 +55,19 @@ h1 {
   padding-top: 0%;
   margin-top: 0px;
   font-size: 3.0em;
+  color:white;
 }
 
 h2 {
   color:white;
+}
+
+h4{
+ color:silver; 
+}
+
+p{
+ color:#32b7ff;
 }
 
 .btn-default {
@@ -63,7 +84,7 @@ h2 {
 } 
 
 .pageTwo {
-  background:url("http://hdlatestwallpaper.com/?edmc=10964");
+  background:url("http://www.windowscentral.com/sites/windowscentral.com/files/images/ga/windows-central-background.jpg");
   background-size: cover;
   height: 800px;
   padding-top: 5%;
@@ -98,7 +119,7 @@ background-color: black;
 }
 
 .pageThree {
-  background:url("https://lh3.ggpht.com/3a238o7PEti7PNB12QqvqVhJQ62kZJiSjcpA0F7AFL8LpSodTGt7ZANgGcLLh05Ipg=h900");
+  background:url("https://wallpprs.media/2560x1440/snow-mountains-hd-wallpaper_wallpprs.com_.jpg");
   background-size: cover;
   padding-top: 5%;
   padding-bottom: 15%;
